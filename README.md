@@ -25,7 +25,7 @@ Here's a glimpse of the exciting projects I'll be working on:
 - **Medical Image Generation 🏥**: Using AI to generate medical images, which can be valuable for research and diagnostics.
 - **Meme Generator App 😂**:  Developing a fun meme generator app using stable diffusion models, demonstrating the creative potential of AI.
 
-## Skills I'll Be Learning
+## More Skills
 
 Throughout this lab, I'll be developing a comprehensive skillset in computer vision, including:
 

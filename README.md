@@ -19,7 +19,7 @@ The program focuses on **real-world applications**, providing a practical and im
 Here's a glimpse of the exciting projects I'll be working on:
 
 - [**Wildlife Image Classification 🦁🌏**](https://github.com/maxim-eyengue/WQU-Applied-AI-Lab/tree/main/P01_Widlife_Conservation_Ivory_Coast): This project focuses on classifying wildlife images from camera traps, contributing to wildlife conservation efforts!
-- **Crop Disease Monitoring 🌿**: We'll build models to detect crop diseases, helping farmers protect their crops and improve food security.
+- [**Crop Disease Monitoring 🌿**](https://github.com/maxim-eyengue/WQU-Applied-AI-Lab/tree/main/P02_Crop_Disease_Uganda): We'll build models to detect crop diseases, helping farmers protect their crops and improve food security.
 - **Traffic Flow Analysis 🚗**: This project involves analyzing traffic patterns to optimize traffic flow and reduce congestion in urban areas.
 - **Face Detection & Recognition 😊**: We'll explore facial recognition technology, understanding its applications and implications.
 - **Medical Image Generation 🏥**: Using AI to generate medical images, which can be valuable for research and diagnostics.

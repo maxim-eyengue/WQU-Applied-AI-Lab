@@ -1,0 +1,26 @@
+names:
+- ambulance
+- army vehicle
+- auto rickshaw
+- bicycle
+- bus
+- car
+- garbagevan
+- human hauler
+- minibus
+- minivan
+- motorbike
+- pickup
+- policecar
+- rickshaw
+- scooter
+- suv
+- taxi
+- three wheelers (CNG)
+- truck
+- van
+- wheelbarrow
+nc: 21
+path: /app/data_yolo
+train: images/train
+val: images/val

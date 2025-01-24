@@ -21,7 +21,7 @@ Here's a glimpse of the exciting projects I'll be working on:
 - [**Wildlife Image Classification 🦁🌏**](./P01_Widlife_Conservation_Ivory_Coast/): This project focuses on classifying wildlife images from camera traps, contributing to wildlife conservation efforts!
 - [**Crop Disease Monitoring 🌿**](./P02_Crop_Disease_Uganda/): We'll build models to detect crop diseases, helping farmers protect their crops and improve food security.
 - [**Traffic Flow Analysis 🚗**](./P03_Traffic_Monitoring_Bangladesh/): This project involves analyzing traffic patterns to optimize traffic flow and reduce congestion in urban areas.
-- **Face Detection & Recognition 😊**: We'll explore facial recognition technology, understanding its applications and implications.
+- [**Face Detection & Recognition 😊**](./P04_Celebrity_Sightings_India/): We'll explore facial recognition technology, understanding its applications and implications.
 - **Medical Image Generation 🏥**: Using AI to generate medical images, which can be valuable for research and diagnostics.
 - **Meme Generator App 😂**:  Developing a fun meme generator app using stable diffusion models, demonstrating the creative potential of AI.
 

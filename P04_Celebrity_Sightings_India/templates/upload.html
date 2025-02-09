@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Image or Video</title>
+</head>
+<body>
+    <h1>Upload Image for Facial Recognition</h1>
+    <form action="recognize" method="post" enctype="multipart/form-data">
+        <label for="fileUpload">Choose an image or video:</label>
+        <input type="file" id="fileUpload" name="image" accept="image/*,video/*">
+        <button type="submit">Upload and Analyze</button>
+    </form>
+</body>
+</html>

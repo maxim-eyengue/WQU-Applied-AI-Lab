@@ -22,7 +22,7 @@ Here's a glimpse of the exciting projects I'll be working on:
 - [**Crop Disease Monitoring 🌿**](./P02_Crop_Disease_Uganda/): We'll build models to detect crop diseases, helping farmers protect their crops and improve food security.
 - [**Traffic Flow Analysis 🚗**](./P03_Traffic_Monitoring_Bangladesh/): This project involves analyzing traffic patterns to optimize traffic flow and reduce congestion in urban areas.
 - [**Face Detection & Recognition 😊**](./P04_Celebrity_Sightings_India/): We'll explore facial recognition technology, understanding its applications and implications.
-- **Medical Image Generation 🏥**: Using AI to generate medical images, which can be valuable for research and diagnostics.
+- [**Medical Image Generation 🏥**](./P05_Medical_Data_Spain/): Using AI to generate medical images, which can be valuable for research and diagnostics.
 - **Meme Generator App 😂**:  Developing a fun meme generator app using stable diffusion models, demonstrating the creative potential of AI.
 
 ## More Skills
